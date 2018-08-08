@@ -1,0 +1,15 @@
+*.swp
+*~
+*.iml
+.*.haste_cache.*
+.DS_Store
+.idea
+.vscode
+.nvmrc
+.npmrc
+.babelrc
+.eslintrc.json
+package-lock.json
+npm-debug.log
+node_modules
+__tests__
