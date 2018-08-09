@@ -1,6 +1,6 @@
 {
-  "name": "jwt-oauth2-middleware",
-  "version": "1.0.0",
+  "name": "@abramltd/jwt-oauth2-middleware",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
